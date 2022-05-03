@@ -8,7 +8,7 @@
 <img src="https://user-images.githubusercontent.com/86842336/166561977-5671f896-0a3c-4ff6-8161-940b2f88ec54.png" width="500">
 
 ## Oynanış
-- Oyuncu seçtiği şirin karakterine göre 1 veya 2 adım atma hakkına sahiptir.
+- Oyuncu seçtiği karaktere göre 1 veya 2 adım atma hakkına sahiptir.
 - Oyuncu Her adım attığında gargamel veya azman oyuncuyu yakalamaya çalışır.
 - Oyuncu gargamel veya azmana yakalanmadam, paraları ve mantarları toplayarak şirineye ulaşmaya çalışır.
 - Oyuncu yakalanırsa oyun biter.
