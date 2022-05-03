@@ -9,8 +9,9 @@
 
 ## Oynanış
 - Oyuncu seçtiği şirin karakterine göre 1 veya 2 adım atma hakkına sahiptir.
-- Oyuncu Her adım attığında gargamel veya azman oyuncuyu yakalamaya çalışır. Oyuncu yakalanırsa oyun biter.
+- Oyuncu Her adım attığında gargamel veya azman oyuncuyu yakalamaya çalışır.
 - Oyuncu gargamel veya azmana yakalanmadam, paraları ve mantarları toplayarak bitişe gitmeye çalışır.
+- Oyuncu yakalanırsa oyun biter.
 
 ## Ekran Görüntüleri
 
