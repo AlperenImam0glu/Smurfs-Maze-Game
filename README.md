@@ -16,5 +16,11 @@
 ## Ekran Görüntüleri
 
 ![gameSS1](https://user-images.githubusercontent.com/86842336/166561989-62bae4b6-98c9-4fa9-8f1a-c23cf0483163.png)
+
 ![gameSS2](https://user-images.githubusercontent.com/86842336/166561994-3f4ac70d-cd82-43b4-9bc6-cb7a0e841580.png)
+
 ![gameSS3](https://user-images.githubusercontent.com/86842336/166562007-7d541632-58ac-4386-93bf-fe63463a7479.png)
+
+
+
+<img src="https://user-images.githubusercontent.com/86842336/166562007-7d541632-58ac-4386-93bf-fe63463a7479.png" width="48">
